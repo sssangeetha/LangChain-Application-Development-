@@ -11,3 +11,5 @@ Vector DB (Pinecone, Chroma, FAISS)
 Model (Gemini, OpenAI, Llama3, Local models)
 
 Deployment + Monitoring
+
+Calling an LLM directly is a single prompt/response — not scalable for real apps. LangChain gives structure, persistence, retrieval, and tool calling, which allows the AI to operate like a real software system component.
